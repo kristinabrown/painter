@@ -1,0 +1,39 @@
+body {
+  padding: 15px;
+}
+
+.block {
+  border: 5px solid black;
+  height: 200px;
+  margin: 40px;
+}
+
+.paint {
+  border: 2px solid black;
+  height: 100px;
+  margin: 10px;
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#white {
+  background-color: white;
+}
+
+#green {
+  background-color: green;
+}
+
+#purple {
+  background-color: purple;
+}
