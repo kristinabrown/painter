@@ -3,9 +3,9 @@ body {
 }
 
 .block {
-  border: 5px solid black;
-  height: 200px;
-  margin: 40px;
+  /*border: 5px solid black;*/
+  height: 50px;
+  /*margin: 40px;*/
 }
 
 .paint {
